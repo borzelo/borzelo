@@ -1,16 +1,44 @@
-## Hi there 👋
-
-<!--
-**borzelo/borzelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Islam Ediyev 👋
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-ediyev) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/borzell0) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:islamforwork@mail.ru)
+ 
+### AI Backend Engineer · I build agentic systems that ship
+ 
+I build production LLM agents — multi-agent orchestration, tool/MCP integration, and the *harness engineering* that makes agents reliable, observable, and cheap enough to run at scale. Less "chatbot demo," more "autonomous worker with a budget."
+ 
+One agent I co-built now handles **~70% of a premium concierge team's monthly workload** on its own. Another reads live room prices off *any* hotel website for about **3¢ a lookup** — after an optimization study cut its cost **26.5×** with zero quality loss.
+ 
+- 🔭  Building agentic automation for a premium concierge service
+- 🌱  Going deep on context engineering, agent evaluation, and cost optimization
+- ⚡  Daily driver: AI-driven development across 5–10 parallel agent sessions
+- 💬  Ask me about Claude Agent SDK, LangGraph, MCP, or squeezing 26× out of an agent pipeline
+---
+ 
+### 🚀 Featured projects
+ 
+**🏨 [hotel-price-aggregator](https://github.com/borzelo/hotel-price-aggregator)**
+ 
+An LLM agent drives a real browser (Claude Agent SDK + Playwright MCP) to read live room prices off *any* hotel site, cross-checked against a deterministic Booking.com parser. A disciplined optimization study cut cost **26.5× — $0.87 → $0.033 per hotel** — with no quality loss.
+ 
+**📞 [ai-voice-caller](https://github.com/borzelo/ai-voice-caller)**
+ 
+Full-stack SaaS — an AI voice agent that makes real phone calls for you, human-in-the-loop. `Go` · `Next.js` · `Vapi.ai` · real-time WebSocket.
+ 
+**🤖 [clawd_platform](https://github.com/borzelo/clawd_platform)**
+ 
+One-click deploy of an autonomous AI agent to Telegram — provisions and configures the server for you.
+ 
+> **Also building — Detect.io** · a solo anti-fraud tool that takes a payment-receipt PDF and returns a *genuine-or-forged* verdict, fusing transfer-ID reverse-engineering, document metadata, and a known-fraudster database into a single confidence score. ~125 monthly users.
+ 
+---
+ 
+### 🧰 Tech
+ 
+**Languages** — `Python` · `Go` · `TypeScript`
+ 
+**Agents / LLM** — Claude Agent SDK · LangGraph · LangChain · MCP servers · RAG · context & prompt engineering · agent evals
+ 
+**Backend** — FastAPI · async Python · Pydantic · SQLAlchemy · PostgreSQL · WebSockets · Redis
+ 
+**Infra** — Docker · Kubernetes
+ 
