@@ -15,6 +15,10 @@ One agent I co-built now handles **~70% of a premium concierge team's monthly wo
 ---
  
 ### 🚀 Featured projects
+
+**🛡️ [detect-io](https://github.com/borzelo/detect-io)** · 🟢 *live · 125+ monthly users*
+ 
+A live anti-fraud system that takes a payment-transfer PDF and returns a *genuine-or-forged* verdict. Fuses transfer-ID reverse-engineering, document metadata, and a known-fraudster database into a single confidence score — catching forgeries manual review misses. Solo-built end to end and actively maintained in production.
  
 **📞 [ai-voice-caller](https://github.com/borzelo/ai-voice-caller)**
  
