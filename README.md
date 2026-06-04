@@ -28,8 +28,6 @@ Full-stack SaaS — an AI voice agent that makes real phone calls for you, human
  
 One-click deploy of an autonomous AI agent to Telegram — provisions and configures the server for you.
  
-> **Also building — Detect.io** · a solo anti-fraud tool that takes a payment-receipt PDF and returns a *genuine-or-forged* verdict, fusing transfer-ID reverse-engineering, document metadata, and a known-fraudster database into a single confidence score. ~125 monthly users.
- 
 ---
 
 ### 🔬 Research & experiments
