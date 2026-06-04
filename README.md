@@ -28,7 +28,7 @@ One-click deploy of an autonomous AI agent to Telegram — provisions and config
  
 ---
 
-#### 🔬 Research & experiments
+### 🔬 Research & experiments
  
 **🏨 [hotel-price-aggregator](https://github.com/borzelo/hotel-price-aggregator)** — *proof-of-concept + optimization study*
 Can an LLM agent read live prices off *any* hotel website? Yes — but the real work was the disciplined
