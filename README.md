@@ -16,10 +16,6 @@ One agent I co-built now handles **~70% of a premium concierge team's monthly wo
  
 ### 🚀 Featured projects
  
-**🏨 [hotel-price-aggregator](https://github.com/borzelo/hotel-price-aggregator)**
- 
-An LLM agent drives a real browser (Claude Agent SDK + Playwright MCP) to read live room prices off *any* hotel site, cross-checked against a deterministic Booking.com parser. A disciplined optimization study cut cost **26.5× — $0.87 → $0.033 per hotel** — with no quality loss.
- 
 **📞 [ai-voice-caller](https://github.com/borzelo/ai-voice-caller)**
  
 Full-stack SaaS — an AI voice agent that makes real phone calls for you, human-in-the-loop. `Go` · `Next.js` · `Vapi.ai` · real-time WebSocket.
@@ -29,6 +25,16 @@ Full-stack SaaS — an AI voice agent that makes real phone calls for you, human
 One-click deploy of an autonomous AI agent to Telegram — provisions and configures the server for you.
  
 > **Also building — Detect.io** · a solo anti-fraud tool that takes a payment-receipt PDF and returns a *genuine-or-forged* verdict, fusing transfer-ID reverse-engineering, document metadata, and a known-fraudster database into a single confidence score. ~125 monthly users.
+ 
+---
+
+#### 🔬 Research & experiments
+ 
+**🏨 [hotel-price-aggregator](https://github.com/borzelo/hotel-price-aggregator)** — *proof-of-concept + optimization study*
+Can an LLM agent read live prices off *any* hotel website? Yes — but the real work was the disciplined
+study that drove cost down **26.5×** ($0.87 → $0.033 per hotel) with no quality loss. Every change followed
+hypothesis → run → before/after metrics → keep or revert, with regressions documented honestly.
+Claude Agent SDK · Playwright MCP · FastAPI.
  
 ---
  
